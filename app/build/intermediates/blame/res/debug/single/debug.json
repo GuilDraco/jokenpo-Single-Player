@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_vazio.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\drawable\\img_vazio.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_face.xml.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\drawable\\ic_face.xml"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_tesoura.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\drawable\\img_tesoura.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\layout_placar_layout.xml.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\layout\\placar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_radio_button_unchecked.xml.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\drawable\\ic_radio_button_unchecked.xml"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\layout_jogo_activity.xml.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\layout\\jogo_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_placar_activy.xml.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\layout\\activity_placar_activy.xml"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_radio_button_checked.xml.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\drawable\\ic_radio_button_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_placar.xml.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\menu\\menu_placar.xml"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_spock.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\drawable\\img_spock.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_papel.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\drawable\\img_papel.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_lagarto.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\drawable\\img_lagarto.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custon_radio_button.xml.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\drawable\\custon_radio_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_borda_dispositivo.xml.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\drawable\\borda_dispositivo.xml"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_pedra.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\drawable\\img_pedra.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_splash.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\drawable\\img_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\draco\\StudioProjects\\Teste_Admissao_Android\\Teste_Admissao_Android\\Avaliacao_Android_ICI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

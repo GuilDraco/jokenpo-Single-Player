@@ -1,0 +1,85 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="br.org.curitiba.ici.avaliacao"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:5:5-36:19
+12        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+12-->[androidx.core:core:1.5.0] C:\Users\draco\.gradle\caches\transforms-2\files-2.1\20ef5b0ef65626922759a2312a98a5e9\core-1.5.0\AndroidManifest.xml:24:18-86
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:6:9-43
+16        android:label="@string/app_name"
+16-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:7:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:8:9-54
+18        android:supportsRtl="true"
+18-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:9:9-35
+19        android:testOnly="true" >
+20        <activity
+20-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:11:9-19:20
+21            android:name="br.org.curitiba.ici.avaliacao.view.SplashScreenActivity"
+21-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:12:13-54
+22            android:theme="@style/AppCompat.TelaCheia" >
+22-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:13:13-55
+23            <intent-filter>
+23-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:14:13-18:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:15:17-69
+24-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:15:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:17:17-77
+26-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:17:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity
+29-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:20:9-23:65
+30            android:name="br.org.curitiba.ici.avaliacao.view.LoginActivity"
+30-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:21:13-47
+31            android:screenOrientation="portrait"
+31-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:22:13-49
+32            android:theme="@style/Theme.AppCompat.NoActionBar" />
+32-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:23:13-63
+33        <activity
+33-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:25:9-29:52
+34            android:name="br.org.curitiba.ici.avaliacao.view.JogoActivity"
+34-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:26:13-46
+35            android:label="@string/app_name"
+35-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:27:13-45
+36            android:screenOrientation="portrait"
+36-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:28:13-49
+37            android:theme="@style/AppCompat.Jogo" />
+37-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:29:13-50
+38        <activity
+38-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:31:9-35:20
+39            android:name="br.org.curitiba.ici.avaliacao.view.PlacarActivity"
+39-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:31:19-54
+40            android:label="@string/app_name"
+40-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:32:13-45
+41            android:screenOrientation="portrait"
+41-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:33:13-49
+42            android:theme="@style/AppCompat.Placar" >
+42-->C:\Users\draco\StudioProjects\Teste_Admissao_Android\Teste_Admissao_Android\Avaliacao_Android_ICI\app\src\main\AndroidManifest.xml:34:13-52
+43        </activity>
+44
+45        <service
+45-->[androidx.room:room-runtime:2.3.0] C:\Users\draco\.gradle\caches\transforms-2\files-2.1\f8db68f1034ecb530e8b68d95614d92b\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+46            android:name="androidx.room.MultiInstanceInvalidationService"
+46-->[androidx.room:room-runtime:2.3.0] C:\Users\draco\.gradle\caches\transforms-2\files-2.1\f8db68f1034ecb530e8b68d95614d92b\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+47            android:directBootAware="true"
+47-->[androidx.room:room-runtime:2.3.0] C:\Users\draco\.gradle\caches\transforms-2\files-2.1\f8db68f1034ecb530e8b68d95614d92b\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+48            android:exported="false" />
+48-->[androidx.room:room-runtime:2.3.0] C:\Users\draco\.gradle\caches\transforms-2\files-2.1\f8db68f1034ecb530e8b68d95614d92b\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+49    </application>
+50
+51</manifest>
