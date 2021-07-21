@@ -126,8 +126,10 @@ public class JogoActivity extends AppCompatActivity {
         btnJokenpo.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                opcaoSelecionada.opcaoSelecionada(JogoActivity.this, placarUsuario, escolhaUsuario, getImageViewJogadorUm, getImageViewJogadorDois, getTextView,
-                        radioGroup, radioGroupNerd);
+                if(getImageViewJogadorUm !=null && getImageViewJogadorDois !=null && escolhaUsuario !=null) {
+                    opcaoSelecionada.opcaoSelecionada(JogoActivity.this, placarUsuario, escolhaUsuario, getImageViewJogadorUm, getImageViewJogadorDois, getTextView,
+                            radioGroup, radioGroupNerd);
+                }
             }
         });
     }
